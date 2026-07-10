@@ -3,7 +3,7 @@
 This project is a Python implementation of **"Paint: Accurate, Efficient, and Sparse Model Inversion via Peripheral Sparsification and Anchor Alignment"**.
 The paper proposes Paint, an accurate, efficient, and sparse model inversion framework for generating high-fidelity synthetic data.
 
-![Overall Architecture of Paint](./images/paint.jpg)
+![Overall Architecture of Paint](./images/paint.png)
 
 
 ## Prerequisites
