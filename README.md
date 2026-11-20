@@ -45,3 +45,19 @@ Before running the script, you should modify the dataset and datapool paths insi
 ### Code Description
 
 This repository is written based on the codes from **Sparse Model Inversion (SMI)** (CVPR '24).
+
+### Citation
+
+Please cite the following paper:
+```
+@article{ChoiKK26,
+    title = {Paint: Accurate, efficient, and sparse Model Inversion via peripheral sparsification and anchor alignment},
+    author = {Choi, Jaehyeon and Kim, Minjun and Kang, U},
+    journal = {PLOS ONE},
+    volume = {21},
+    pages = {1-19},
+    number = {11},
+    year = {2026},
+    publisher = {Public Library of Science},
+}
+```
